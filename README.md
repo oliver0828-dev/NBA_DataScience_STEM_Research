@@ -1,1 +1,1 @@
-# NBA_DataScience_STEM_Research
+# NBA Data Science for STEM Fair and Research 
